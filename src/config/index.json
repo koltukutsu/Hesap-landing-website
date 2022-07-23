@@ -29,7 +29,7 @@
   "mainHero": {
     "title": "hesap",
     "subtitle": "ama daha hızlısı.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "Sevdiklerinizle yediğiniz güzel bir yemekten sonra hesap ödemek için uzun süre sıranın size gelmesini beklemeye son! Hesap ile hızlı sipariş ve hızlı ödeme fırsatını siz değerli müşterilerimizle buluşturuyoruz. Günlük hayatta restoranlarda & kafelerde karşılaştığınız bir çok problemin üstesinden gelmek artık uygulamamız ile artık mümkün. Tek yapmanız gereken oturmak istediğiniz masada bulunan QR kodu okutmak. İşte bu kadar. Sonrasında siparişinizi verebilir ve ödemeyi de siparişinizi verdikten hemen sonra garsonu beklemeden tamamlayabilirsiniz.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Başlayalım",
@@ -62,28 +62,28 @@
   },
   "features": {
     "title": "size özel özelliklerimiz ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "subtitle": "Çünkü Sizin Vaktinizi Önemsiyoruz!",
+    "description": "Uygulamamızı kullanarak size her türlü alanda HIZ sağlıyoruz. ",
     "items": [
       {
         "name": "Menü Bekleme",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "description": "Menünüzün gelmesini beklemden, uygulamamızı kullanarak masaya oturduğunuz gibi QR kodunuzu okutun ve menünüze anında ulaşın.",
         "icon": "/assets/images/hesap-images/hesap_booking.png"
       },
       {
         "name": "Garson Bekleme",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "description": "Uygulamamızı kullanarak, Garsonu Beklemeden garson ile iletişime geçin ve süreci hızlandırın.",
         "icon": "/assets/images/hesap-images/hesap_ring.png"
       },
       {
-        "name": "Ödeme İçin Bekleme",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Ödemek İçin Bekleme",
+        "description": "HesabınızıÖdemek İçin Beklemeyin, hızlıca uygulamamız üzerinden ödemeniz ile ilgili her türlü işlemi gerçekleştirin.",
         "icon": "/assets/images/hesap-images/hesap_payinh.png"
       },
       {
-        "name": "Ortak Ödeme",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Fazladan Bekleme",
+        "description": "Ortak hesap ödeme imkanından tutunda hesabı başkası ile paylaşmaya kadar farklı farklı ödeme özelliklerimizle uygulamamızı kullanarak Fazladan Beklemeyin.",
+        "icon": "/assets/images/hesap-images/hesap_together_payment.png"
       }
     ]
   },
