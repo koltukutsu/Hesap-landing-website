@@ -45,17 +45,17 @@
     "items": [
       {
         "title": "Değerli Vaktinizi Boşa Harcamayın",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "description": "Vakit ile ilgili yazi yazilmasi gerekiyor",
         "img": "/assets/images/hesap-images/hesap_people_waiting.png"
       },
       {
         "title": "Tüm İşlemlerinizi Hızlandırın!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "description": "Islemleri yapmayla ilgili ekran koymak lazim!",
         "img": "/assets/images/hesap-images/hesap_holding_phone_cartoon.png"
       },
       {
         "title": "Herşey Bir Arada!",
-        "description": "hemen uygulamamızı deneyin!",
+        "description": "Uygulamanin temel ozelliklerini gosteren bir mockup olabilir!",
         "img": "/assets/images/hesap-images/hesap_holding_phone.png"
       }
     ]
