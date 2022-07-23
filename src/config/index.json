@@ -44,19 +44,24 @@
     "title": " hesap ile hesabı beklemeyin!",
     "items": [
       {
-        "title": "Değerli Vaktinizi Boşa Harcamayın",
-        "description": "Vakit ile ilgili yazi yazilmasi gerekiyor",
-        "img": "/assets/images/hesap-images/hesap_people_waiting.png"
-      },
-      {
         "title": "Tüm İşlemlerinizi Hızlandırın!",
         "description": "Islemleri yapmayla ilgili ekran koymak lazim!",
         "img": "/assets/images/hesap-images/hesap_holding_phone_cartoon.png"
       },
       {
+        "title": "Değerli Vaktinizi Boşa Harcamayın",
+        "description": "Vakit ile ilgili yazi yazilmasi gerekiyor",
+        "img": "/assets/images/hesap-images/hesap_people_waiting.png"
+      },
+      {
         "title": "Herşey Bir Arada!",
         "description": "Uygulamanin temel ozelliklerini gosteren bir mockup olabilir!",
         "img": "/assets/images/hesap-images/hesap_holding_phone.png"
+      },
+      {
+        "title": "Restoran & Kafe Arayüzü",
+        "description": "Restoran & Kafe sahipleri için özel arayüzümüz ile anlık sipariş takibinden gemiş siparişlere ve sipariş iptallerine kadar özel özelliklerimiz ile hizmet sunuyoruz",
+        "img": "/assets/images/hesap-images/hesap_mockup_siparisler_3.jpg"
       }
     ]
   },
