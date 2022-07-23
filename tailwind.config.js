@@ -22,6 +22,7 @@ module.exports = {
         tertiary: '#99a0a3',
         border: '#1a2e35',
         background: '#ffffff',
+        hesapbg: '#32a7da',
       },
       animation: {
         vote: 'vote 1s ease-in-out',

@@ -1,29 +1,29 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "hesap - ama daha hızlısı!",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Ürünlerimiz",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Özelliklerimiz",
       "href": "features"
     },
 
     {
-      "name": "Pricing",
+      "name": "Modellerimiz",
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Hakkımızda",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Hadi Başlayalım",
     "href": "#"
   },
   "mainHero": {
@@ -32,91 +32,102 @@
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Başlayalım",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Bize E-mail Gönder",
+      "href": "mailto:m.semihbabacan@gmail.com?subject= Merhaba, Hesap uygulamanızın websitesini gördüm ve...!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": " hesap ile hesabı beklemeyin!",
     "items": [
       {
-        "title": "A plug n play template",
+        "title": "Değerli Vaktinizi Boşa Harcamayın",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/hesap-images/hesap_people_waiting.png"
       },
       {
-        "title": "Make it your own!",
+        "title": "Tüm İşlemlerinizi Hızlandırın!",
         "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/hesap-images/hesap_holding_phone_cartoon.png"
+      },
+      {
+        "title": "Herşey Bir Arada!",
+        "description": "hemen uygulamamızı deneyin!",
+        "img": "/assets/images/hesap-images/hesap_holding_phone.png"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
+    "title": "size özel özelliklerimiz ",
     "subtitle": "All the best technologies out there!",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "items": [
       {
-        "name": "React.js",
+        "name": "Menü Bekleme",
         "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "icon": "/assets/images/hesap-images/hesap_booking.png"
       },
       {
-        "name": "Tailwind",
+        "name": "Garson Bekleme",
         "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/hesap-images/hesap_ring.png"
       },
       {
-        "name": "Next.js",
+        "name": "Ödeme İçin Bekleme",
         "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "icon": "/assets/images/hesap-images/hesap_payinh.png"
       },
       {
-        "name": "Typescript",
+        "name": "Ortak Ödeme",
         "description": "TypeScript is a programming language developed and maintained by Microsoft.",
         "icon": "/assets/images/ts.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "İş Modellerimiz",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Standart",
+        "price": "STANDART",
+        "priceDetails": "işletmeler için",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Sınırlı QR Kod Oluşturma",
+          "Teknik Destek",
+          "Personel Eğitimi",
+          "Standart Reklamlar",
+          "Temel Anlaşmalar",
+          "Canlı Destek"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "name": "Premium",
+        "price": "FARK",
+        "priceDetails": "oluşturmak isteyen işletmeler için",
 
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Sınırsız QR Kod Oluşturma",
+          "Premium Teknik Destek",
+          "Birebir Eğitim",
+          "Özelleştirilmiş Reklamlar",
+          "Cash-Back Anlaşmaları",
+          "Kupon Anlaşmaları",
+          "Özelleştirilmiş İş Analizi ve Danışmalık Hizmetleri"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "İş Analizi ve Danışmanlık",
+        "price": "İŞİNDEN",
+        "priceDetails": "haberdar olmak isteyenler için",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Veri Madenciğili Desteği",
+          "Kullanıcı Davranışı Analizleri",
+          "Trend Analizleri & Tahminleri",
+          "Fırsat Tahminleri",
+          "İş Analizi"
         ]
       }
     ]
@@ -124,24 +135,40 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Melike Zeynep ÇAKMAKCI",
+        "href": "https://www.linkedin.com/in/melike-zeynep-%C3%A7akmakc%C4%B1-78589b195/",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_zeynep.png",
+        "alt": "Melike Zeynep ÇAKMAKCI"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Emine COŞKUN",
+        "href": "https://www.linkedin.com/in/emine-co%C5%9Fkun-79395b187/",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_emine.png",
+        "alt": "Emine COŞKUN"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Mehmet Semih Babacan",
+        "href": "https://www.linkedin.com/in/mehmetsemihbabacan/",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_semih.png",
+        "alt": "Mehmet Semih Babacan"
+      },
+
+      {
+        "name": "Erdem KALYONCU",
+        "href": "https://www.linkedin.com/in/erdemkalyoncu/",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_erdem.png",
+        "alt": "Erdem KALYONCU"
       },
       {
-        "name": "Something22",
-        "href": "#",
-        "content": "Semhh."
+        "name": "Merve Nur KÖROĞLU",
+        "href": "https://www.linkedin.com/in/merve-nur-k%C3%B6ro%C4%9Flu-62b484165?originalSubdomain=tr",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_merve.png",
+        "alt": "Merve Nur KÖROĞLU"
       }
     ],
     "socialMedia": {

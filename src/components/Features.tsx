@@ -10,7 +10,8 @@ const Features = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
           <h2
-            className={`text-base text-primary font-semibold tracking-wide uppercase`}
+            className={`text-base text-primary font-semibold tracking-wide`}
+            // className={`text-base text-primary font-semibold tracking-wide uppercase`}
           >
             {title}
           </h2>
@@ -28,19 +29,19 @@ const Features = () => {
               <div key={feature.name} className="relative">
                 <dt>
                   <div
-                    className={`absolute flex items-center justify-center h-12 w-12 rounded-md bg-background text-tertiary border-primary border-4`}
+                    className={`absolute flex items-center justify-center h-24 w-24 rounded-md bg-background text-tertiary border-primary border-4`}
                   >
                     <img
-                      className={`inline-block h-6 w-6 rounded-full`}
+                      className={`inline-block h-34 w-34 rounded-full`}
                       src={feature.icon}
                       alt={feature.name}
                     />
                   </div>
-                  <p className="ml-16 text-lg leading-6 font-medium text-gray-900">
+                  <p className="ml-32 text-lg leading-6 font-medium text-gray-900">
                     {feature.name}
                   </p>
                 </dt>
-                <dd className="mt-2 ml-16 text-base text-gray-500">
+                <dd className="mt-2 ml-32 text-base text-gray-500">
                   {feature.description}
                 </dd>
               </div>
